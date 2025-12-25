@@ -44,27 +44,28 @@
   //  return true;
 //}
                                  //3-SAVOL
-static string FirstThreeChars(string text)
-{
-    if (text.Length < 3)
-    {
-        return text;
-    }
-    return text.Substring(0, 3);
-}
+//static string FirstThreeChars(string text)
+//{
+   // if (text.Length < 3)    {
+     //   return text;
+   // }
+   // return text.Substring(0, 3);
+//}
  
 
                                //4 -SAVOL
 
-static bool StartsWithPDP(string text)
-{
-    return text.StartsWith("PDP");
-}
+//static bool StartsWithPDP(string text)
+//{
+  //  return text.StartsWith("PDP");
+//}
 
                                //5-SAVOL
-static bool IsG13(string text)
-{
-    return text == "G13";
-}
+//static bool IsG13(string text)
+//{
+  ///  return text == "G13";
+//}
+                              //6-SAVOL
+                              
 
 
